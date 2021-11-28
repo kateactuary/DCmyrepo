@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Calculate Time Diff
 
-```{r}
+```{r eval=TRUE}
 library(dplyr)
 summary(iris)
 ```
