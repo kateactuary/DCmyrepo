@@ -1,0 +1,19 @@
+---
+title: "Rlearning"
+author: "Kate C"
+date: "11/28/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Date and Time
+
+## Calculate Time Diff
+
+```{r}
+library(dplyr)
+summary(iris)
+```
